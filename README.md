@@ -29,8 +29,8 @@ Before running the application, make sure you have the following installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/your-repository-name.git
-cd your-repository-name
+git clone https://github.com/takisparas23/accepted.git
+cd accepted
 
 ```
 ### 2.Once the application is running, you can interact with it via the following endpoints:
